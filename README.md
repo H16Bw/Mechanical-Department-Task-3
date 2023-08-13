@@ -4,7 +4,10 @@
 ## Designing a suspension system
 
 ### A suspension system 
+
 ![WHEEL SUSPENSION SYSTEM ](https://github.com/H16Bw/Mechanical-Department-Task-3/assets/139852537/9e8c23cc-e847-4c78-b117-33c610948d56)
+
+![image](https://github.com/H16Bw/Mechanical-Department-Task-3/assets/139852537/17499d46-7d9a-40f7-b388-be6b945f55d2)
 
 
 ### Front Wheel Suspension System 
@@ -14,7 +17,8 @@
 
 ## Component of the Suspension System
 
-![image](https://github.com/H16Bw/Mechanical-Department-Task-3/assets/139852537/e800baf1-175e-4c06-865a-b0d63e7a6302)
+![image](https://github.com/H16Bw/Mechanical-Department-Task-3/assets/139852537/e83cb48d-f369-4e23-aa08-26499f66bff9)
+
 
 
 The suspension system in a vehicle is responsible for managing the interaction between the tires and the road surface. It plays a crucial role in providing a comfortable ride, maintaining vehicle stability, and ensuring proper handling. The suspension system consists of several components that work together to achieve these goals. Here are the main components of a typical suspension system:
